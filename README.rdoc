@@ -2,6 +2,14 @@
 
 Ruby On Rails で作ったブログサービスのサンプルです。
 
-== TODO
+== 原作者
 
-Test...
+@yoshioota
+
+== 出典
+
+* 解説記事
+  * {Rails初心者へ向けブログアプリのサンプルを作りました - Qiita}[http://qiita.com/yoshioota/items/635f33da154cd305bcc3]
+* GitHub (Fork元)
+  * https://github.com/yoshioota/rails-blog-sample
+
